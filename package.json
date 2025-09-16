@@ -1,0 +1,27 @@
+{
+  "name": "fx-tester-tool",
+  "version": "1.0.1",
+  "description": "A simple tool for local preview and debugging of particle effects in a scene. Works in 2D and 3D, launches effects by trigger, by button and with loop support. Configurable directly in the inspector via convenient buttons.",
+  "author": "RimuruDev",
+  "license": "MIT",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RimuruDev/FXTesterTool.git"
+  },
+  "keywords": [
+    "unity",
+    "particle",
+    "unity-particle",
+    "test-particle",
+    "rimuru-dev",
+    "rimurudev",
+    "art-tool"
+  ],
+  "bugs": {
+    "email": "rimuru.dev@gmail.com",
+    "url": "https://github.com/RimuruDev/FXTesterTool/issues"
+  },
+  "homepage": "https://github.com/RimuruDev/FXTesterTool",
+  "dependencies": {}
+}
