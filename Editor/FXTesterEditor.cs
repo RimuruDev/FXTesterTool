@@ -2,10 +2,10 @@ using UnityEditor;
 using UnityEngine;
 using System.Collections.Generic;
 
-namespace AbyssMoth.Internal.Codebase.Tools.FXTesterTool.Editor
+namespace AbyssMoth.FXTesterTool
 {
     [CustomEditor(typeof(FXTester))]
-    public sealed class FXTesterEditor : UnityEditor.Editor
+    public sealed class FXTesterEditor : Editor
     {
         public override void OnInspectorGUI()
         {

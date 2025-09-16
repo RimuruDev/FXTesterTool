@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace AbyssMoth.Internal.Codebase.Tools.FXTesterTool
+namespace AbyssMoth.FXTesterTool
 {
     [SelectionBase]
     [DisallowMultipleComponent]
