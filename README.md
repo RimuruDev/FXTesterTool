@@ -16,6 +16,15 @@
 1. Скопируй папки `FXTester.cs` и `Editor/FXTesterEditor.cs` в проект.
 2. Скрипт редактора обязан лежать в папке `Editor`.
 
+**Вариант В: по ссылке**
+
+```https://github.com/RimuruDev/FXTesterTool.git```
+
+<img width="523" height="238" alt="изображение" src="https://github.com/user-attachments/assets/eb46d056-89af-4bb2-9a9b-8c343d9c0a82" />
+<img width="746" height="166" alt="изображение" src="https://github.com/user-attachments/assets/62e5e790-7e84-406a-8d50-c3ad6bd2346d" />
+<img width="595" height="321" alt="изображение" src="https://github.com/user-attachments/assets/a1595c72-b0a5-499d-9b69-f8404754f30f" />
+
+
 Поддержка: Unity 2022+ / Unity 6. Работает в URP/Built-in.
 
 ---
